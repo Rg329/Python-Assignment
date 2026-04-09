@@ -19,3 +19,4 @@ while True:
         print(b)
         print('Your guess is too high, try again')
     
+c=d
